@@ -1,10 +1,10 @@
-# Classic Arcade Game Clone
+# Feed Reader Testing.
 
 ## Introduction
-This is one of the projects for Udacity's FEDN. It's meant to teach you how to use Jasmine to test if your Javascript is working as it should. 
+This is one of the projects for Udacity's Front-End Development Nanodegree. It's meant to teach you how to use Jasmine to test if your Javascript is working as it should. Testing is an important part in the development process, that is why developers are encouraged to write tests, before even starting to develop an application/start a project.
 
 ## Installing 
-Download this repo, then open the index.html in your browser.  
+Download this repo, then open the index.html in your browser. 
 
 ## Tests that we implemented:
 - Test that verifies allFeeds are defined and not empty. 
@@ -21,4 +21,4 @@ Download this repo, then open the index.html in your browser.
 - [Jasmine documentation.](https://jasmine.github.io/)
 
 ## License
-The content of this repository is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+The content of this repository is licensed under [MIT.](https://choosealicense.com/licenses/mit/)
